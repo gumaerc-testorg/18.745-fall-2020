@@ -14,7 +14,7 @@ learning_resource_types:
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: '18.745 F20 Lecture 24: Construction of a Semisimple Lie Algebra from a Dynkin
-  Diagram'
+  Diagrams'
 uid: 14f4b927-a11f-4f11-afbf-6fda07c0b833
 video_files:
   archive_url: ''
