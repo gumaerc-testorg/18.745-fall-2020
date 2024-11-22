@@ -14,7 +14,7 @@ learning_resource_types:
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: '18.745 F20 Lecture 18: Extensions of Representations, Whitehead''s Theorem,
-  and Compete Reducibility'
+  and Complete Reducibility'
 uid: 1940d6e6-a8a3-4ff9-900a-46f56df756b1
 video_files:
   archive_url: ''

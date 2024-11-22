@@ -41,7 +41,7 @@ Lecture 12: The Universal Enveloping Algebra of a Lie Algebra
 
 Lecture 13: The Poincare-Birkhoff-Witt Theorem
 
-Lecture 14: Free Lie Algebras and the Baker-Campbell-Hausdor Formula
+Lecture 14: Free Lie Algebras and the Baker-Campbell-Hausdorff Formula
 
 *Problem set 6 due*
 
@@ -53,7 +53,7 @@ Lecture 16: Semisimple and Reductive Lie Algebras, the Cartan Criteria
 
 Lecture 17: Proofs of the Cartan Criteria and Properties of Semisimple Lie Algebras
 
-Lecture 18: Extensions of Representations, Whitehead's Theorem, and Compete Reducibility
+Lecture 18: Extensions of Representations, Whitehead's Theorem, and Complete Reducibility
 
 *Problem set 8 due*
 

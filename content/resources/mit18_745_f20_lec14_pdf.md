@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: "18.745 F20 Lecture 14: Free Lie Algebras and the Baker-Campbell-Hausdor\u2000\
+title: "18.745 F20 Lecture 14: Free Lie Algebras and the Baker-Campbell-Hausdorff\u2000\
   Formula"
 uid: 30207dc3-ff99-46db-a4ef-2680701efcb3
 video_files:
