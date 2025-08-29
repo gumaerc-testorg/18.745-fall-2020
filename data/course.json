@@ -34,10 +34,11 @@
     "website": "lie-groups-and-lie-algebras-i"
   },
   "learning_resource_types": [
-    "Online Textbook",
+    "Open Textbooks",
     "Lecture Notes",
     "Problem Sets"
   ],
   "site_uid": "445b7dc1-a47e-441a-9f3b-358c8e5539b7",
-  "site_short_id": "18.745-fall-2020"
+  "site_short_id": "18.745-fall-2020",
+  "site_url_path": "courses/18-745-lie-groups-and-lie-algebras-i-fall-2020"
 }
