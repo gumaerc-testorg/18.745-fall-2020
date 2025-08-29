@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/lie-groups-and-lie-algebras-i/mit18_745_f20_lec16.pdf
+file: /ol-ocw-studio-app/courses/18-745-lie-groups-and-lie-algebras-i-fall-2020/mit18_745_f20_lec16.pdf
 file_size: 355258
 file_type: application/pdf
 image_metadata:
